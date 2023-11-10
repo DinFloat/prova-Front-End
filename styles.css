@@ -33,3 +33,19 @@ img{
     border-radius: 20px;
     box-shadow: 0px 10px 40px #00000053;
 }
+
+.btnClass{
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    font-weight: 800;
+    letter-spacing: 2.5px;
+    background: #ffcbdb;
+    color: #830c62;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px #00000053;
+}
