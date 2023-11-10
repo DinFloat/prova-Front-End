@@ -1,8 +1,8 @@
-function mudar() {
+function mudarCoisas() {
     document.getElementById("demo").innerHTML = "Texto alterado!";
 }
 
-function mudar() {
+function mudarCoisas() {
     document.getElementById("demo2").innerHTML = "Luffy é muito very nice!";
 }
 
